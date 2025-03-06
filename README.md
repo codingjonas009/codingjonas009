@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @codingjonas009
-- 👀 I’m interested in coding Minecrfat Plugins, Discord Bot, and fun little projects to educate myself :) 
-- 🌱 I’m currently learning STILL Minecraft Plugin coding.... but i am already good in it
+- 👋 Hi, I’m RedDeveloper
+- 👀 I’m interested in coding Discord Bot, and fun little projects to educate myself :) 
+- 🌱 I’m currently learning Discord bot development (3 years).... but i am already good in it
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: jonas_rog
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: css is real art
 
 <!---
