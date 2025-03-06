@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding Discord Bot, and fun little projects to educate myself :) 
 - 🌱 I’m currently learning Discord bot development (3 years).... but i am already good in it
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: jonas_rog
+- 📫 How to reach me discord: jonas.redstone
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: css is real art
 
